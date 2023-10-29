@@ -1,2 +1,2 @@
 # cypress_sanbercode
-tugas sanbercode include cypress e2e testing, api testing
+tugas harian sanbercode batch 50
